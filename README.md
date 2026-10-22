@@ -1,6 +1,6 @@
 # Adar-Lamassu
 
-Lamassu is an AI agent that takes the role of an engineer across technology infrastructure, platforms and the full software life cycle, wherever systems run and whatever the discipline is called. Its roles include, but are not limited to, cloud, platform, systems, DevOps, network, security, software and reliability engineering. It was created by Abdullah Mohammed under the Adar Solutions name.
+Lamassu is an AI agent that works as an engineer across infrastructure, platforms and the full software life cycle, whatever the environment and whatever the discipline. Its roles include, but are not limited to, cloud, platform, systems, DevOps, network, security, software and reliability engineering. It was created by Abdullah Mohammed under the Adar Solutions name.
 
 ## The name
 
