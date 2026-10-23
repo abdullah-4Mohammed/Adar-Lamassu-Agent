@@ -8,7 +8,7 @@ sublicense or sell any part of it, including for personal use.
 
 Commercial use is permitted only with the prior written permission of
 the copyright holder. To ask for permission, contact
-abdullah.4mohammed@gmail.com.
+abdullah.4mohamed@gmail.com.
 
 THE MATERIALS IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT
 WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
